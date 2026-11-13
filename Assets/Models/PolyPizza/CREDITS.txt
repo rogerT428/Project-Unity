@@ -1,0 +1,16 @@
+GelasPlastik.glb : 'Cups' by Poly by Google - CC-BY 3.0 - https://poly.pizza/m/8r7h3KYdWe-
+KantongPlastik.glb : 'trah bag grey' by Jens Kull - CC-BY 3.0 - https://poly.pizza/m/axTuG36RXnN
+Apel.glb : 'Apple Half' by Kenney - CC0 1.0 - https://poly.pizza/m/ZjFo9SH6T0
+Daun.glb : 'Leaf' by Poly by Google - CC-BY 3.0 - https://poly.pizza/m/4_FetA14dDV
+Kertas.glb : 'Debris Papers' by Quaternius - CC0 1.0 - https://poly.pizza/m/CCRSdAJxsD
+Kardus.glb : 'Cardboard Box Open' by Kenney - CC0 1.0 - https://poly.pizza/m/i1lr4yJFY0
+Koran.glb : 'Paper' by Poly by Google - CC-BY 3.0 - https://poly.pizza/m/a6kuHAjWdYP
+Kaleng.glb : 'Soda Can' by jeremy - CC-BY 3.0 - https://poly.pizza/m/cNjAaDY27fQ
+KalengSarden.glb : 'Cat Food Cans | closed, open' by sirkitree - CC-BY 3.0 - https://poly.pizza/m/cpdwLDHiw8-
+TutupBotol.glb : 'Bottlecap' by Poly by Google - CC-BY 3.0 - https://poly.pizza/m/7HsR9BPZpi6
+TongSampah.glb : 'Recycle bin' by Yuwei Xi - CC-BY 3.0 - https://poly.pizza/m/92Iv-tdQ49h
+Pohon.glb : 'Tree' by Marc Solà - CC-BY 3.0 - https://poly.pizza/m/6Yjt8nIwLsD
+Semak.glb : 'Bush' by Jarlan Perez - CC-BY 3.0 - https://poly.pizza/m/d6STyhH76Qe
+Bangku.glb : 'Bench' by Ev Amitay - CC-BY 3.0 - https://poly.pizza/m/dOSjmdmKaxi
+BotolPlastik.glb : 'Bottle (Plastic)' by Zoe XR - CC-BY 3.0 - https://poly.pizza/m/di8BdLR1M8S
+KulitPisang.glb : 'Banana' by Poly by Google - CC-BY 3.0 - https://poly.pizza/m/ahOO6wz8sV0
